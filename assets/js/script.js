@@ -13,7 +13,7 @@
  * Google Apps Script経由の送信先）へ移動するだけの仕組みです。
  */
 const weddingConfig = {
-  rsvpFormUrl: "https://forms.gle/XXXXXXXX", // ← ここをご自身のGoogleフォームURLに書き換えてください
+  rsvpFormUrl: rsvpFormUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfI86v6FuJO8u7eBhTJYQKzgO0SKkTxNVYxMZPU3IbljD9N3A/viewform", // ← ここをご自身のGoogleフォームURLに書き換えてください
 };
 
 (function () {
