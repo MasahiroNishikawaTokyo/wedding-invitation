@@ -287,6 +287,10 @@ ul {
   border-bottom: 1px solid var(--color-beige);
 }
 
+.timeline li:last-child {
+  border-bottom: none;
+}
+
 .timeline .time {
   font-family: var(--font-en-display);
   font-size: 26px;
